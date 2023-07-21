@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuba</h1>
 <h3 align="center">A Software developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
