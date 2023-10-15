@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuba</h1>
-<h3 align="center">Jr. Frontend developer</h3>
-
+<h3 align="center">Junior Frontend Developer</h3>
+- Currently working on React and JavaScript
+- I'm working on developing myself in the frontend field as best as I can.
 
 
 <h3 align="left">Connect with me:</h3>
