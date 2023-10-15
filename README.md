@@ -2,6 +2,7 @@
 <h3 align="center">Junior Frontend Developer</h3>
 <p>
 - Currently working on React and JavaScript
+  <br/>
 - I'm working on developing myself in the frontend field as best as I can.
 </p>
 
