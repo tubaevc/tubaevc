@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuba</h1>
 <h3 align="center">Junior Software Developer</h3>
-<p>
-- Currently working on React and JavaScript
-  <br/>
-- I'm working on developing myself in the frontend field as best as I can.
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
