@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuba</h1>
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 <p>
 - Currently working on React and JavaScript
   <br/>
