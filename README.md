@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuba</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- I am improving myself as a Unity game developer and I am also a freelance frontend developer.
+
 
 ###
 
